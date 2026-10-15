@@ -6,4 +6,8 @@ Ejemplo práctico
 
 <img width="1366" height="720" alt="Captura de pantalla 2026-10-15 144903" src="https://github.com/user-attachments/assets/d87d7dcb-274b-4403-9cc4-994206c51661" />
 
+<img width="1366" height="720" alt="Captura de pantalla 2026-10-15 152523" src="https://github.com/user-attachments/assets/0360a86b-2003-4b19-ac95-70708648d67b" />
+
+<img width="1366" height="720" alt="Captura de pantalla 2026-10-15 150407" src="https://github.com/user-attachments/assets/f0c7a534-ed1e-4825-92e4-d4e7fa6db822" />
+
 
