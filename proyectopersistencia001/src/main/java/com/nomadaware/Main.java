@@ -60,7 +60,6 @@ public class Main {
                         System.out.println("Opción no reconocida.");
                 }
             } catch (Exception e) {
-                // Si ocurre un error en cualquier operación, revertimos los cambios en la BD
                 if (em.getTransaction().isActive()) {
                     em.getTransaction().rollback();
                 }
